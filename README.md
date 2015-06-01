@@ -1,4 +1,4 @@
-
+#Jsoops
 JavaScript oops implementation made easy now. Create your JavaScript class by inheriting from another class as simple as other OOPs programing laguage. During my JavaScript coding, I found that, JavaScript is a such a complex to implement class and use in inheritance model to beginers. 
 
 I made an small and light weight API which will  allow to creating JavaScript class, implmenting inherinace model will be easy. Find below one sample code to create a JavaScript class.
